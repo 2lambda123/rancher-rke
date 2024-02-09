@@ -15,7 +15,8 @@ require (
 	github.com/containerd/containerd v1.6.26 // indirect
 	github.com/coreos/etcd v3.3.17+incompatible
 	github.com/coreos/go-semver v0.3.0
-	github.com/docker/distribution v2.8.2+incompatible
+	github.com/distribution/reference v0.5.0 // indirect
+	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/docker v20.10.27+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/ghodss/yaml v1.0.0
@@ -32,7 +33,7 @@ require (
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/stretchr/testify v1.8.4
 	github.com/urfave/cli v1.22.2
-	golang.org/x/crypto v0.14.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/sync v0.3.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.22.5
