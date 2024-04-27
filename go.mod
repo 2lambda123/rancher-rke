@@ -17,7 +17,7 @@ require (
 	github.com/coreos/go-semver v0.3.0
 	github.com/distribution/reference v0.5.0 // indirect
 	github.com/docker/distribution v2.8.3+incompatible
-	github.com/docker/docker v20.10.27+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
@@ -25,7 +25,8 @@ require (
 	github.com/gopherjs/gopherjs v0.0.0-20191106031601-ce3c9ade29de // indirect
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mcuadros/go-version v0.0.0-20180611085657-6d5863ca60fa
-	github.com/moby/sys/mount v0.2.0 // indirect
+	github.com/moby/patternmatcher v0.6.0 // indirect
+	github.com/moby/sys/sequential v0.5.0 // indirect
 	github.com/opencontainers/runc v1.1.12 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/norman v0.0.0-20200517050325-f53cae161640
